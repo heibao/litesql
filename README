@@ -16,6 +16,8 @@ Project home page: http://litesql.sourceforge.net
 
 Installation
 ------------
+./autogen.sh
+
 ./configure 
 
 make
